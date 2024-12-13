@@ -1,4 +1,4 @@
-#07-crudApiSetup-springDataJPA-demo
+# 07-crudApiSetup-springDataJPA-demo
 
 Dependencies used in Spring initializr
 - Spring Web
